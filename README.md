@@ -43,7 +43,7 @@ Octal: 110 145 154 154 157 40 127 157 162 154 144 41
 ![N9zziCbA](https://user-images.githubusercontent.com/80823900/178373820-c3936831-e021-4fc7-bf01-ff175da031d9.png)
 
 ## Bugs
-I worked a lot on this project *(and sometimes I closed the project for some days because it was too boring to code and full of bugs)* and I'm an uman, so I can also do some mistakes. If you found any bugs contact me please and tell me about the bug that you found and also send some screenshots or video. (https://riccio333.space/contacts)
+I worked a lot on this project *(and sometimes I closed the project for some days because it was too boring to code and full of bugs)* and I'm an human, so I can also do some mistakes. If you found any bugs contact me please and tell me about the bug that you found and also send some screenshots or video. (https://riccio333.space/contacts)
 
 *p.s.: I'm not <u>100% sure</u> that conversion from <u>ASCII or base64</u> to others values **are right.** For example I converted  If you have any suggestions to fix the code to convert from this values to others they are welcome.*
 
