@@ -1589,7 +1589,7 @@ Octal: {convert_text_box.Text}";
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/riccio333/0x-converter");
+            System.Diagnostics.Process.Start("https://github.com/riccio333/0x-Converter");
         }
     }
 }
