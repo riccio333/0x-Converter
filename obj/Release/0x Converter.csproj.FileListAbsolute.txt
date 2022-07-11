@@ -1,0 +1,14 @@
+C:\Users\erikp\OneDrive\Desktop\0x Converter\bin\Release\0x Converter.exe.config
+C:\Users\erikp\OneDrive\Desktop\0x Converter\bin\Release\0x Converter.exe
+C:\Users\erikp\OneDrive\Desktop\0x Converter\bin\Release\0x Converter.pdb
+C:\Users\erikp\OneDrive\Desktop\0x Converter\bin\Release\Guna.UI2.dll
+C:\Users\erikp\OneDrive\Desktop\0x Converter\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\0x Converter.csproj.AssemblyReference.cache
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\0x Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\_0x_Converter.Ox_converter.resources
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\_0x_Converter.Properties.Resources.resources
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\0x Converter.csproj.GenerateResource.cache
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\0x Converter.csproj.CoreCompileInputs.cache
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\0x Converter.csproj.CopyComplete
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\0x Converter.exe
+C:\Users\erikp\OneDrive\Desktop\0x Converter\obj\Release\0x Converter.pdb
